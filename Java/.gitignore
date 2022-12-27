@@ -1,3 +1,11 @@
-.idea
-.iml
-target
+# Default ignored files
+/shelf/
+/workspace.xml
+*.iml
+*.log
+target/
+.idea/
+test-output/
+
+
+
